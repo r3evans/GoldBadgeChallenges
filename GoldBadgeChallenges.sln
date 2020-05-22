@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "..\..\..\..\source\repos\GoldBadgeChallenges\Email.csproj", "{F8508837-BEF1-465F-8B3E-4D5A60EA18C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email.csproj", "{F8508837-BEF1-465F-8B3E-4D5A60EA18C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTests", "..\..\..\..\source\repos\UnitTestProject4\EmailTests.csproj", "{DF7213C4-7D04-4838-9244-A09E5476515C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTests", "..\UnitTestProject4\EmailTests.csproj", "{DF7213C4-7D04-4838-9244-A09E5476515C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe", "..\..\..\..\source\repos\01_Cafe\01_Cafe.csproj", "{9F26E769-F5B9-41E8-976E-F1BA15EA9C82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe", "..\01_Cafe\01_Cafe.csproj", "{9F26E769-F5B9-41E8-976E-F1BA15EA9C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe_UnitTestProject5", "..\..\..\..\source\repos\01_Cafe_UnitTestProject5\01_Cafe_UnitTestProject5.csproj", "{31C3D903-8935-4DA3-95F8-9143FC562F0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe_UnitTestProject5", "..\01_Cafe_UnitTestProject5\01_Cafe_UnitTestProject5.csproj", "{31C3D903-8935-4DA3-95F8-9143FC562F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyOutings", "..\..\..\..\source\repos\CompanyOutings\CompanyOutings.csproj", "{EFB7D874-30C1-4E91-86DF-3CB2EF151A2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyOutings", "..\CompanyOutings\CompanyOutings.csproj", "{EFB7D874-30C1-4E91-86DF-3CB2EF151A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyOutingTests", "..\..\..\..\source\repos\UnitTestProject5\CompanyOutingTests.csproj", "{022E9457-9F7D-4724-8F50-9F9897C20557}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyOutingTests", "..\UnitTestProject5\CompanyOutingTests.csproj", "{022E9457-9F7D-4724-8F50-9F9897C20557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
